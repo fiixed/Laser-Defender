@@ -1,0 +1,17 @@
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/abell/Repos/Laser Defender/obj/Debug/Assembly-CSharp.dll
+/Users/abell/Repos/Laser Defender/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/UnityEngine.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/UnityEditor.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Mono.Cecil.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Unity.DataContract.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/abell/Repos/Laser Defender/Temp/bin/Debug/Mono.Cecil.Mdb.dll
